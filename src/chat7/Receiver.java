@@ -8,6 +8,7 @@ import java.net.SocketException;
 //서버가 보내는 Echo메세지를 읽어오는 쓰레드 클래스
 public class Receiver extends Thread {
 	
+	//ㅋㅋㅋ
 	Socket socket;
 	BufferedReader in = null;
 	
